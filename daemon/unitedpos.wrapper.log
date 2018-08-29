@@ -1,0 +1,102 @@
+2018-03-02 18:23:23 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Master\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file c:\deverlop\server\index.js --log "UnitedPOS wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2018-03-02 18:23:23 - Started 1196
+2018-03-02 18:36:52 - Stopping unitedpos.exe
+2018-03-02 18:36:52 - ProcessKill 1196
+2018-03-02 18:36:54 - Shutdown exception
+Message:系统正在关机。 (异常来自 HRESULT:0x8007045B)
+Stacktrace:   在 System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   在 System.Management.ManagementScope.InitializeGuts(Object o)
+   在 System.Management.ManagementScope.Initialize()
+   在 System.Management.ManagementObjectSearcher.Initialize()
+   在 System.Management.ManagementObjectSearcher.Get()
+   在 winsw.WrapperService.GetChildPids(Int32 pid)
+   在 winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   在 winsw.WrapperService.StopIt()
+   在 winsw.WrapperService.OnShutdown()
+2018-03-02 18:45:07 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Master\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file c:\deverlop\server\index.js --log "UnitedPOS wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2018-03-02 18:45:08 - Started 7516
+2018-03-03 21:14:28 - Stopping unitedpos.exe
+2018-03-03 21:14:29 - ProcessKill 7516
+2018-03-03 21:14:31 - Shutdown exception
+Message:系统正在关机。 (异常来自 HRESULT:0x8007045B)
+Stacktrace:   在 System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   在 System.Management.ManagementScope.InitializeGuts(Object o)
+   在 System.Management.ManagementScope.Initialize()
+   在 System.Management.ManagementObjectSearcher.Initialize()
+   在 System.Management.ManagementObjectSearcher.Get()
+   在 winsw.WrapperService.GetChildPids(Int32 pid)
+   在 winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   在 winsw.WrapperService.StopIt()
+   在 winsw.WrapperService.OnShutdown()
+2018-03-03 23:48:01 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Master\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file c:\deverlop\server\index.js --log "UnitedPOS wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2018-03-03 23:48:03 - Started 6576
+2018-03-07 21:18:04 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Master\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file c:\deverlop\server\index.js --log "UnitedPOS wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2018-03-07 21:18:04 - Started 5148
+2018-03-07 21:30:30 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Master\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file c:\deverlop\server\index.js --log "UnitedPOS wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2018-03-07 21:30:30 - Started 4368
+2018-03-22 01:59:03 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Master\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file c:\deverlop\server\index.js --log "UnitedPOS wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2018-03-22 01:59:03 - Started 5708
+2018-03-22 03:03:34 - Stopping unitedpos.exe
+2018-03-22 03:03:34 - ProcessKill 5708
+2018-03-22 03:03:34 - Shutdown exception
+Message:系统正在关机。 (异常来自 HRESULT:0x8007045B)
+Stacktrace:   在 System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   在 System.Management.ManagementScope.InitializeGuts(Object o)
+   在 System.Management.ManagementScope.Initialize()
+   在 System.Management.ManagementObjectSearcher.Initialize()
+   在 System.Management.ManagementObjectSearcher.Get()
+   在 winsw.WrapperService.GetChildPids(Int32 pid)
+   在 winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   在 winsw.WrapperService.StopIt()
+   在 winsw.WrapperService.OnShutdown()
+2018-03-22 08:52:57 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Master\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file c:\deverlop\server\index.js --log "UnitedPOS wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2018-03-22 08:52:57 - Started 5536
+2018-03-25 21:33:43 - Stopping unitedpos.exe
+2018-03-25 21:33:43 - ProcessKill 5536
+2018-03-25 21:33:44 - Shutdown exception
+Message:系统正在关机。 (异常来自 HRESULT:0x8007045B)
+Stacktrace:   在 System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   在 System.Management.ManagementScope.InitializeGuts(Object o)
+   在 System.Management.ManagementScope.Initialize()
+   在 System.Management.ManagementObjectSearcher.Initialize()
+   在 System.Management.ManagementObjectSearcher.Get()
+   在 winsw.WrapperService.GetChildPids(Int32 pid)
+   在 winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   在 winsw.WrapperService.StopIt()
+   在 winsw.WrapperService.OnShutdown()
+2018-03-25 21:45:25 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Master\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file c:\deverlop\server\index.js --log "UnitedPOS wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2018-03-25 21:45:26 - Started 5740
+2018-03-28 21:18:53 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Master\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file c:\deverlop\server\index.js --log "UnitedPOS wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2018-03-28 21:18:53 - Started 5684
+2018-04-10 17:32:34 - Stopping unitedpos.exe
+2018-04-10 17:32:34 - ProcessKill 5684
+2018-04-10 17:32:35 - Shutdown exception
+Message:系统正在关机。 (异常来自 HRESULT:0x8007045B)
+Stacktrace:   在 System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   在 System.Management.ManagementScope.InitializeGuts(Object o)
+   在 System.Management.ManagementScope.Initialize()
+   在 System.Management.ManagementObjectSearcher.Initialize()
+   在 System.Management.ManagementObjectSearcher.Get()
+   在 winsw.WrapperService.GetChildPids(Int32 pid)
+   在 winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   在 winsw.WrapperService.StopIt()
+   在 winsw.WrapperService.OnShutdown()
+2018-04-10 17:34:11 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Master\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file c:\deverlop\server\index.js --log "UnitedPOS wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2018-04-10 17:34:11 - Started 6164
+2018-05-09 06:27:33 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Master\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file c:\deverlop\server\index.js --log "UnitedPOS wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2018-05-09 06:27:33 - Started 6060
+2018-05-09 17:44:30 - Stopping unitedpos.exe
+2018-05-09 17:44:30 - ProcessKill 6060
+2018-05-09 17:44:30 - Shutdown exception
+Message:系统正在关机。 (异常来自 HRESULT:0x8007045B)
+Stacktrace:   在 System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   在 System.Management.ManagementScope.InitializeGuts(Object o)
+   在 System.Management.ManagementScope.Initialize()
+   在 System.Management.ManagementObjectSearcher.Initialize()
+   在 System.Management.ManagementObjectSearcher.Get()
+   在 winsw.WrapperService.GetChildPids(Int32 pid)
+   在 winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   在 winsw.WrapperService.StopIt()
+   在 winsw.WrapperService.OnShutdown()
+2018-05-09 17:46:06 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\Master\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file c:\deverlop\server\index.js --log "UnitedPOS wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2018-05-09 17:46:06 - Started 6500
